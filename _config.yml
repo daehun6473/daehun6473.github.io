@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "훈훈한 Code"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Kim Daehun"
+name                     : "김대훈"
 description              : "반가워요! 여긴 공부공간입니다."
 url                      : "https://daehun6473.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

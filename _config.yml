@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "김대훈"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "반가워요! 여기는 개발공부 공간입니다!"
   location         : "Somewhere"
   email            :
   links:
